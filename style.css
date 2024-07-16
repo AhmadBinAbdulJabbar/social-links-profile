@@ -82,8 +82,8 @@ body{
   font-size: 14px;
   width: 100%;
   background-color: hsl(0, 0%, 20%);
-  padding: 1rem;
   border-radius: 5px;
+  border-color: transparent;
 }
 
 .link:hover{
@@ -96,8 +96,10 @@ body{
 }
 
 .link a{
+  padding: 1rem;
   display: inline-block;
   width: 100%;
+  height: 100%;
   color: hsl(0, 0%, 100%);
   text-decoration: none;
 }

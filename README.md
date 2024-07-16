@@ -22,8 +22,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/AhmadBinAbdulJabbar/QR-code-component.git)
-- Live Site URL: [live site URL](https://ahmadbinabduljabbar.github.io/QR-code-component/)
+- Solution URL: [solution URL](https://github.com/AhmadBinAbdulJabbar/social-links-profile.git)
+- Live Site URL: [live site URL](https://ahmadbinabduljabbar.github.io/social-links-profile/)
 
 ## My process
 
