@@ -75,6 +75,7 @@ body{
 .links{
   width: 100%;
   gap: 20px;
+  list-style: none;
 }
 
 .link{
